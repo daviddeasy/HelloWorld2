@@ -1,2 +1,0 @@
-This is a test.  Please ignore if not here.
-Edit on master before merge of branch where this file is deleted.
